@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886570974425",
+    "project_id": "autease-8779f",
+    "storage_bucket": "autease-8779f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886570974425:android:15bd0dd46797b80fc312c8",
+        "android_client_info": {
+          "package_name": "com.example.autease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV3Z2cUhiZARd1VMFJ9uRNc3ImU-Bt1WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
